@@ -1,11 +1,3 @@
-# Apache Maven
-### Task 1
-Screenshot
-![task1](Screenshot/Screenshot_1.png)
-
-### Task 2
-Pom.xml
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -45,5 +37,3 @@ Pom.xml
     </dependencies>
 
 </project>
-
-```
